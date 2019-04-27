@@ -1,7 +1,24 @@
 # nuc8i5beh
 
-nuc8i5beh clover4920的EFI
+### 4920EFI：
 
-接近99%完美
+#### clover为4920版本
 
-最大的问题就是雷电3接口不支持热插拔
+#### bios版本为0056
+
+
+
+### 4923EFI：
+
+#### clover为4923版本
+
+#### bios版本为0066
+
+[clover下载地址](https://github.com/Dids/clover-builder/releases)
+
+
+
+### 已知问题：
+
+#### 雷电3接口不支持热插拔
+
