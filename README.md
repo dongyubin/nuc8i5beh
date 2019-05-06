@@ -84,7 +84,7 @@ English version：
 
 
 
-[clover download address] (https://github.com/Dids/clover-builder/releases)
+[clover download address](https://github.com/Dids/clover-builder/releases)
 
 
 
