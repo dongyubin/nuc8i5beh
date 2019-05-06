@@ -46,3 +46,49 @@
 
 
 
+English version：
+
+### 4920EFI:
+
+#### clover is version 4920
+
+#### bios version is 0056
+
+
+
+### 4923EFI:
+
+#### clover is version 4923
+
+#### bios version is 0066
+
+
+
+### 4926EFI:
+
+#### clover version is 4926 version
+
+#### bios version is 0066
+
+
+
+#### 4626EFI solved the problem:
+
+##### nuc8i5behThe problem of prohibition on the boot
+
+
+
+### Known issues:
+
+#### Thunder 3 interface does not support hot swap
+
+
+
+[clover download address] (https://github.com/Dids/clover-builder/releases)
+
+
+
+### Installation tutorial:
+
+[Guide: nuc8i5beh install black apple tutorial, close to perfect running](https://dongyubin.github.io/mac_anzhuang.html)
+
