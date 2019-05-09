@@ -23,11 +23,16 @@
 #### bios版本为0066
 
 
-
 #### 4626EFI解决了的问题：
 
 ##### nuc8i5beh开机出现禁止符的问题
 
+
+#### 注意
+
+##### 我已更新到mac mojave beta 10.14.5
+
+##### 使用我自己的EFI完美运行
 
 
 ### 已知问题：
@@ -75,6 +80,14 @@ English version：
 #### 4626EFI solved the problem:
 
 ##### nuc8i5behThe problem of prohibition on the boot
+
+
+
+#### note：
+
+##### I have updated to mac mojave beta10.14.5
+
+##### Run perfectly with my own EFI
 
 
 
