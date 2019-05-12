@@ -47,7 +47,7 @@
 
 ### 安装教程：
 
-[指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://dongyubin.github.io/mac_anzhuang.html)
+[指南：nuc8i5beh安装黑苹果的教程，接近完美运行](http://chengxuxiaohei.cn/mac_anzhuang.html)
 
 
 
