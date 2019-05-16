@@ -103,5 +103,5 @@ English version：
 
 ### Installation tutorial:
 
-[Guide: nuc8i5beh install black apple tutorial, close to perfect running](http://chengxuxiaohei.cn/mac-anzhuang.html)
+[Guide: nuc8i5beh install black apple tutorial, close to perfect running](https://chengxuxiaohei.cn/mac-anzhuang-en.html)
 
