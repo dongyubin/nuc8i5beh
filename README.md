@@ -18,7 +18,7 @@
 
 ### 4926EFI:
 
-#### clover版本为4926版本
+#### clover版本为4926版本（4927、4928也可以使用）
 
 #### bios版本为0066
 
@@ -71,7 +71,7 @@ English version：
 
 ### 4926EFI:
 
-#### clover version is 4926 version
+#### clover version is 4926 version（4927, 4928 can also be used）
 
 #### bios version is 0066
 
