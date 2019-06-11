@@ -28,6 +28,8 @@
 
 ### 4950EFI:
 
+#### clover版本为4950版本（从4950到4962也可以使用）
+
 #### bios版本为0071
 
 #### 注意
@@ -85,6 +87,14 @@ English version：
 
 
 
+### 4950EFI
+
+#### clover version is 4950 version（Can also be used from 4950 to 4962）
+
+#### bios version is 0071
+
+
+
 #### note：
 
 ##### I have updated to mac mojave beta10.14.5
@@ -107,3 +117,8 @@ English version：
 
 [Guide: nuc8i5beh install black apple tutorial, close to perfect running](https://chengxuxiaohei.cn/mac-anzhuang-en.html)
 
+
+
+##### 如果文章对您有帮助，就请站长喝袋奶吧😆
+
+![wechat](https://chengxuxiaohei.cn/images/wechatpay.png)
