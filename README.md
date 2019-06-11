@@ -119,6 +119,13 @@ English version：
 
 
 
+<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0fced924c58ee0997c8560a01bcf4bf34ea684952a90c2bf8094fc2b0903711a"><img border="0" src="//pub.idqqimg.com/wpa/images/group.png" alt="文武科技社" title="文武科技社"></a>
+
+
+
 ##### 如果文章对您有帮助，就请站长喝袋奶吧😆
 
-![wechat](https://chengxuxiaohei.cn/images/wechatpay.png)
+|                           微信                            |                         支付宝                         |
+| :-------------------------------------------------------: | :----------------------------------------------------: |
+| ![wechat](https://chengxuxiaohei.cn/images/wechatpay.png) | ![支付宝](https://chengxuxiaohei.cn/images/alipay.jpg) |
+
