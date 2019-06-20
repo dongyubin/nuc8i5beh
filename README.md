@@ -28,7 +28,7 @@
 
 ### 4950EFI:
 
-#### clover版本为4950版本（从4950到4964也可以使用）
+#### clover版本为4950版本（从4950到4967也可以使用）
 
 #### bios版本为0071
 
@@ -88,7 +88,7 @@ English version：
 
 ### 4950EFI
 
-#### clover version is 4950 version（Can also be used from 4950 to 4962）
+#### clover version is 4950 version（Can also be used from 4950 to 4967）
 
 #### bios version is 0071
 
