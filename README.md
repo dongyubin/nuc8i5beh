@@ -62,7 +62,7 @@
 
 
 
-[英文版](https://github.com/dongyubin/nuc8i5beh/README-EN)
+[英文版](https://github.com/dongyubin/nuc8i5beh/blob/master/README-EN.md)
 
 
 
