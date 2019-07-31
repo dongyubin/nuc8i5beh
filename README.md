@@ -62,67 +62,8 @@
 
 
 
-English version：
+[英文版](https://github.com/dongyubin/nuc8i5beh/README-EN)
 
-### 4920EFI:
-
-#### clover is version 4920
-
-#### bios version is 0056
-
-
-
-### 4923EFI:
-
-#### clover is version 4923
-
-#### bios version is 0066
-
-
-
-### 4926EFI:
-
-#### clover version is 4926 version（Can also be used from 4927 to 4935）
-
-#### bios version is 0066
-
-
-
-#### 4626EFI solved the problem:
-
-##### nuc8i5behThe problem of prohibition on the boot
-
-
-
-### 4950EFI
-
-#### clover version is 4950 version（Can also be used from 4950 to 4967）
-
-#### bios version is 0071
-
-
-
-#### note：
-
-##### I have updated to mac mojave beta10.14.5
-
-##### Run perfectly with my own EFI
-
-
-
-### Known issues:
-
-#### Thunder 3 interface does not support hot swap
-
-
-
-[clover download address](https://github.com/Dids/clover-builder/releases)
-
-
-
-### Installation tutorial:
-
-[Guide: nuc8i5beh install black apple tutorial, close to perfect running](https://chengxuxiaohei.cn/mac-anzhuang-en.html)
 
 
 
