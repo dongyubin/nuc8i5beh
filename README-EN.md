@@ -32,7 +32,7 @@ English version：
 
 ### 4950EFI
 
-#### clover version is 4950 version（Can also be used from 4950 to 4967）
+#### clover version is 4950 version（Can also be used from 4950 to 5036）
 
 #### bios version is 0071
 
@@ -40,7 +40,7 @@ English version：
 
 #### note：
 
-##### I have updated to mac mojave beta10.14.5
+##### I have updated to mac mojave 10.14.6
 
 ##### Run perfectly with my own EFI
 
