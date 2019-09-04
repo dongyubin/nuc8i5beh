@@ -32,7 +32,7 @@ English version：
 
 ### 4950EFI
 
-#### clover version is 4950 version（Can also be used from 4950 to 5058）
+#### clover version is 4950 version（Can also be used from 4950 to 5064）
 
 #### bios version is 0071
 
