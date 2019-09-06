@@ -6,6 +6,14 @@
 
 ### bios73未测试，请自行安装测试
 
+## Catalina
+
+### 5066EFI
+
+#### clover为5066版本
+
+#### bios版本为0071
+
 
 
 ## Mojave
