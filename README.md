@@ -60,7 +60,7 @@
 
 ##### 使用我自己的EFI完美运行
 
-##### 我已用我另一个硬盘安装了Mac Catalina，正在测试中，后续会更新适合Catalina的EFI文件，请敬请期待。
+##### 我已用我另一个硬盘安装了Mac Catalina，已更新适合Catalina的EFI文件，请尽情享用。
 
 
 
