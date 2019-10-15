@@ -77,7 +77,7 @@ BIOS74的修复/功能：
 
 
 
-[clover下载地址](https://github.com/Dids/clover-builder/releases)
+[clover引导工具](https://github.com/Dids/clover-builder/releases)
 
 
 
