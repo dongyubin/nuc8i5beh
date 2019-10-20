@@ -75,7 +75,7 @@ BIOS74的修复/功能：
 
 #### 雷电3接口不支持热插拔
 
-
+ [EFI蓝奏网盘]( https://www.lanzous.com/b073ccvvc)   密码:2fp4 
 
 [clover引导工具](https://github.com/Dids/clover-builder/releases)
 
