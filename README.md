@@ -82,7 +82,7 @@
 
 [指南：nuc8i5beh安装黑苹果的教程，接近完美运行](http://chengxuxiaohei.cn/mac-anzhuang.html)
 
-如果上面的网址访问慢，可点此处[🔗](https://itxh.design/mac-anzhuang.html)
+如果上面的网址访问慢，可点此处[🔗](https://wangdudyb.gitee.io/blog/mac-anzhuang.html)
 
 [英文版](https://github.com/dongyubin/nuc8i5beh/blob/master/README-EN.md)
 
