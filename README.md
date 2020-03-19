@@ -1,6 +1,7 @@
 # nuc8i5beh
 
 ## 为了访问速度，已迁移仓库至码云
+
 [码云地址](https://gitee.com/wangdudyb/nuc8i5beh)
 
 ## 注意
