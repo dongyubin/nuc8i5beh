@@ -30,7 +30,7 @@
 
 ### 5066EFI
 
-#### clover为5066版本（从5066到5101也可以使用）
+#### clover为5066版本（从5066到5103也可以使用）
 
 #### bios版本为0073
 
@@ -94,9 +94,7 @@
 
  [EFI蓝奏网盘]( https://www.lanzous.com/b073ccvvc)   密码:2fp4 
 
-[clover引导工具](https://github.com/Dids/clover-builder/releases)
-
-
+[clover引导工具](https://wangdudyb.gitee.io/blog/mac/mac-anzhuang-software.html)
 
 ### 安装教程：
 
