@@ -98,15 +98,13 @@
 
 ### 安装教程：
 
-[指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://wangdudyb.gitee.io/blog/mac-anzhuang.html)
+[指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://chengxuxiaohei.cn/mac-anzhuang.html)
 
 [英文版](https://github.com/dongyubin/nuc8i5beh/blob/master/README-EN.md)
 
 ### 其他资源：
 
 [软件网站](https://wangdudyb.gitee.io/blog/)
-
-[影视网站](https://www.wangdu.site/)
 
 
 ### 加群
