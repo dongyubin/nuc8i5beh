@@ -23,17 +23,23 @@
 
 #### bios版本为0077
 
+
+
 ### 5066EFI
 
 #### clover为5066版本（从5066到5118也可以使用）
 
 #### bios版本为0073
 
+
+
 ### 5097EFI
 
 #### clover为5097版本
 
 #### bios版本为0073
+
+
 
 ## Mojave
 
@@ -116,3 +122,4 @@
 
 - [解决英特尔® NUC 上的过热或过热问题](https://www.intel.cn/content/www/cn/zh/support/articles/000033327/intel-nuc.html)
 - [nuc外接拓展坞](https://post.smzdm.com/p/adwlnw6n/)
+- [黑苹果使用自带网卡无线教程](http://bbs.pcbeta.com/viewthread-1856465-1-1.html)  [教程中使用的驱动  蓝奏网盘](https://www.lanzoux.com/b0742pr4f)  密码:**hpzs**
