@@ -24,6 +24,7 @@
 
 - 更新了CLOVERX64.efi
 - 更新了Lilu、WhateverGreen、AppleALC驱动
+- 添加了**config-雷电3热插拔.plist**，还未测试，有机器的可以测试一波
 
 
 ### 5119EFI（Mojave测试能用）
