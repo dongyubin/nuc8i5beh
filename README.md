@@ -17,6 +17,15 @@
 
 ## Catalina
 
+### 5122EFI
+#### clover为5122版本
+
+#### bios版本为0077
+
+- 更新了CLOVERX64.efi
+- 更新了Lilu、WhateverGreen、AppleALC驱动
+
+
 ### 5119EFI（Mojave测试能用）
 
 #### clover为5119版本
