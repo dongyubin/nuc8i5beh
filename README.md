@@ -128,9 +128,9 @@
 
 [点此直达赞助](https://wangdudyb.gitee.io/blog/donate/)
 
-|                         微信                         |                       支付宝                        |
-| :--------------------------------------------------: | :-------------------------------------------------: |
-| ![微信](https://chengxuxiaohei.cn/img/wechatpay.png) | ![支付宝](https://chengxuxiaohei.cn/img/alipay.jpg) |
+|                            微信                            |                          支付宝                           |
+| :--------------------------------------------------------: | :-------------------------------------------------------: |
+| ![微信](https://youpaiyun.wangdu.site/wxgzh/wechatpay.png) | ![支付宝](https://youpaiyun.wangdu.site/wxgzh/alipay.jpg) |
 
 - [解决英特尔® NUC 上的过热或过热问题](https://www.intel.cn/content/www/cn/zh/support/articles/000033327/intel-nuc.html)
 - [nuc外接拓展坞](https://post.smzdm.com/p/adwlnw6n/)
