@@ -103,7 +103,9 @@
 
 #### 雷电3接口不支持热插拔
 
- [EFI蓝奏网盘]( https://itxh.lanzous.com/b073ccvvc)   密码:2fp4 
+ [Clover版 EFI蓝奏网盘]( https://itxh.lanzous.com/b073ccvvc)   密码:2fp4 
+
+[OC版 EFI蓝奏网盘](https://github.com/gmcalo/NUC8i5BEH)
 
 [clover引导工具](https://wangdudyb.gitee.io/blog/mac/mac-anzhuang-software.html)
 
