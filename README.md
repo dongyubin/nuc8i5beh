@@ -1,8 +1,12 @@
 # nuc8i5beh
 
-## 为了访问速度，已迁移仓库至码云
+## 为了访问速度，已同步至码云
 
 [码云地址](https://gitee.com/wangdudyb/nuc8i5beh)
+
+## 电脑配置征集
+
+[方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
 
 ## 注意
 
