@@ -19,9 +19,13 @@
 2. 更新驱动（**CLOVER/kexts/Other**里的文件）
 3. 如果还不行，那就只能找度娘了
 
-### EFI-OC
+## EFI-OC/OC-weachy
 
  支持引导**Mojave、Catalina、Big Sur（10.14～11）**
+
+## EFI-OC/OC-appleserial
+
+[来自 appleserial 的GitHub](https://github.com/appleserial/NUC8I5BEH/)
 
 ## EFI-Clover/Catalina
 
@@ -99,9 +103,9 @@
 
 ### 已知问题：
 
-#### 雷电3接口不支持热插拔
+- 雷电3接口不支持热插拔（有雷电设备请自行尝试）
 
-[Clover版 EFI蓝奏网盘]( https://itxh.lanzous.com/b073ccvvc)   密码:2fp4 
+[EFI 蓝奏网盘]( https://itxh.lanzous.com/b073ccvvc)   密码:**2fp4** 
 
 [OC版 EFI](https://github.com/gmcalo/NUC8i5BEH)
 
@@ -136,6 +140,6 @@
 
 - [解决英特尔® NUC 上的过热或过热问题](https://www.intel.cn/content/www/cn/zh/support/articles/000033327/intel-nuc.html)
 - [nuc外接拓展坞](https://post.smzdm.com/p/adwlnw6n/)
-- [黑苹果使用自带网卡无线教程](http://bbs.pcbeta.com/viewthread-1856465-1-1.html)  [教程中使用的驱动  蓝奏网盘](https://www.lanzoux.com/b0742pr4f)  密码:**hpzs**
+- [黑苹果使用自带网卡无线教程](http://bbs.pcbeta.com/viewthread-1856465-1-1.html)           [教程中使用的驱动  蓝奏网盘](https://www.lanzoux.com/b0742pr4f)  密码:**hpzs**
 - [解决nuc8i5beh黑苹果双显示器时typec接口的显示器无信号问题](https://www.c4dig.cn/page/1934.html)
 - [解决黑苹果下BCM94360CS2拆机网卡网速慢的问题](http://www.purefish.cc/mac-bcm94360cs2-wifi.html)
