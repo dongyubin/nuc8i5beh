@@ -119,7 +119,7 @@
 
 ### 其他资源：
 
-[软件网站](https://wangdudyb.gitee.io/blog/)
+[软件网站](https://sl.wangdu.site/)
 
 
 ### 加群
