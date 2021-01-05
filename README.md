@@ -99,23 +99,23 @@
 
 #### bios版本为0071
 
-
+---
 
 ### 已知问题：
 
 - 雷电3接口不支持热插拔（有雷电设备请自行尝试）
 
-[EFI 蓝奏网盘]( https://itxh.lanzous.com/b073ccvvc)   密码:**2fp4** 
+---
 
-[OC版 EFI](https://github.com/gmcalo/NUC8i5BEH)
+## EFI 高速下载(包含：EFI文件、在线U盘制作工具、黑苹果常用工具)
 
-[clover引导工具](https://wangdudyb.gitee.io/blog/mac/mac-anzhuang-software.html)
+关注公众号：**文武科技社**
+
+回复关键词：**nuc8**
 
 ### 安装教程：
 
 [指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://chengxuxiaohei.cn/mac-anzhuang.html)
-
-[英文版](https://github.com/dongyubin/nuc8i5beh/blob/master/README-EN.md)
 
 ### 其他资源：
 
@@ -124,7 +124,7 @@
 
 ### 加群
 
-300287087        <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0fced924c58ee0997c8560a01bcf4bf34ea684952a90c2bf8094fc2b0903711a">文武科技社</a>   交流群，有空位
+**300287087**       <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0fced924c58ee0997c8560a01bcf4bf34ea684952a90c2bf8094fc2b0903711a">文武科技社</a>   交流群，有空位
 
 ##### 点个Star,支持一下站长！
 
