@@ -1,5 +1,9 @@
 # nuc8i5beh
 
+## 远程安装（童叟无欺）
+
+### 闲鱼用户搜索：程序小黑
+
 ## 为了访问速度，已同步至码云
 
 [码云地址](https://gitee.com/wangdudyb/nuc8i5beh)
