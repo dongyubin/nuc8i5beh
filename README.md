@@ -24,6 +24,8 @@
 
 [软件网站](https://www.wangdu.site/)
 
+![](https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN@main/20210406143143.gif)
+
 
 ### 加群
 
@@ -31,11 +33,11 @@
 
 ## 点个Star,支持一下站长！
 
-## 0元赞助斌仔，一分也是爱！
+## 赞助斌仔，一分也是爱！
 
-|                   第一步：支付宝扫码领红包                   | 第二步：支付宝扫码付款即可                                   |                    微信（象征性的放个码）                    |
-| :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
-| ![](https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN/20210121091834.jpg) | ![](https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN/20210121091845.jpg) | ![微信](https://cdn.jsdelivr.net/gh/dongyubin/cdn-imgs@1.1/imgs-public/wechatpay.png) |
+| 支付宝                                                       |                             微信                             |
+| ------------------------------------------------------------ | :----------------------------------------------------------: |
+| ![](https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN@main/20210330152001.jpg) | ![](https://cdn.jsdelivr.net/gh/dongyubin/cdn-imgs/imgs-public/wechatpay.png) |
 
 ## 注意
 
