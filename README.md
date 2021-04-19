@@ -14,7 +14,7 @@
 
 ## EFI 高速下载（已更新 OC 0.6.6 版本）
 
-[高速下载👍](https://pan.wangdu.site/E%EF%BC%9Anuc8EFI/)
+[高速下载👍](https://pan.wangdu.site/B-%E9%BB%91%E8%8B%B9%E6%9E%9C/000%20Nuc8-Efi/)
 
 ### 安装教程：
 
