@@ -66,7 +66,8 @@
 
 - [解决英特尔® NUC 上的过热或过热问题](https://www.intel.cn/content/www/cn/zh/support/articles/000033327/intel-nuc.html)
 - [nuc外接拓展坞](https://post.smzdm.com/p/adwlnw6n/)
-- [黑苹果使用自带网卡无线教程](http://bbs.pcbeta.com/viewthread-1856465-1-1.html)           [教程中使用的驱动  蓝奏网盘](https://www.lanzoux.com/b0742pr4f)  密码:**hpzs**
+- [黑苹果使用自带网卡无线教程](http://bbs.pcbeta.com/viewthread-1848662-1-1.html)
+- [黑苹果蓝牙驱动](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
 - [解决nuc8i5beh黑苹果双显示器时typec接口的显示器无信号问题](https://www.c4dig.cn/page/1934.html)
 - [解决黑苹果下BCM94360CS2拆机网卡网速慢的问题](http://www.purefish.cc/mac-bcm94360cs2-wifi.html)
 - [NUC8（豆子峡谷）黑苹果新手指南](https://zhuanlan.zhihu.com/p/165596210)
