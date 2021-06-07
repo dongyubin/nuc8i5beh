@@ -14,7 +14,9 @@
 
 ## EFI 高速下载（已更新 OC 0.6.6 版本）
 
-[高速下载👍](https://pan.wangdu.site/B-%E9%BB%91%E8%8B%B9%E6%9E%9C/000%20Nuc8-Efi/)
+[高速下载👍](https://pan.wangdu.site/B-%E9%BB%91%E8%8B%B9%E6%9E%9C/000%20NUC8-EFI/)
+
+- 添加了 带Intel WIFI&蓝牙（在WIndows打开） 的 EFI文件
 
 ### 安装教程：
 
