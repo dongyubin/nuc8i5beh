@@ -12,7 +12,7 @@
 
 [方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
 
-## EFI 高速下载（已更新 OC 0.6.6 版本）
+## EFI 高速下载（已更新 OC 0.7.1 版本）
 
 [高速下载👍](https://pan.wangdu.site/B-%E9%BB%91%E8%8B%B9%E6%9E%9C/000%20NUC8-EFI/)
 
