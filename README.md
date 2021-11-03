@@ -12,9 +12,13 @@
 
 [方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
 
-## EFI 高速下载（已更新 OC 0.7.1 版本）
+## EFI 高速下载（已更新 OC 0.7.4 版本）
 
-[高速下载👍](https://pan.wangdu.site/B-%E9%BB%91%E8%8B%B9%E6%9E%9C/000%20NUC8-EFI/)
+因OneDrive被封了，所有之前网盘发的文件都没了，还忘了备份（(;´༎ຶД༎ຶ`) 哭死）
+
+现在最新的版本，在群里发了，有需要的在下面进群获取
+
+我先去整理资料了，拜拜！
 
 - 添加了 带Intel WIFI&蓝牙（在WIndows打开） 的 EFI文件
 
