@@ -12,9 +12,7 @@
 
 [方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
 
-## EFI 高速下载（已更新 OC 0.7.4 版本）
-
-因OneDrive被封了，所有之前网盘发的文件都没了，还忘了备份（(;´༎ຶД༎ຶ`) 哭死）
+## EFI 高速下载（已更新 OC 0.7.9 版本）
 
 现在最新的版本，在群里发了，有需要的在下面进群获取
 
@@ -24,7 +22,7 @@
 
 ### 安装教程：
 
-[指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://dongyubin.github.io/mac-anzhuang.html)
+[指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://www.chengxuxiaohei.top/mac-anzhuang.html)
 
 ### 其他资源：
 
@@ -35,7 +33,7 @@
 
 ### 加群
 
-**300287087**       <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0fced924c58ee0997c8560a01bcf4bf34ea684952a90c2bf8094fc2b0903711a">文武科技社</a>   交流群，有空位
+**300287087**       <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0fced924c58ee0997c8560a01bcf4bf34ea684952a90c2bf8094fc2b0903711a">文武科技社</a>   交流群已满，添加请备注：github
 
 ## 点个Star,支持一下站长！
 
