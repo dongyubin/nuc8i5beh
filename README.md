@@ -33,7 +33,9 @@
 
 ### 加群
 
-**300287087**       <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0fced924c58ee0997c8560a01bcf4bf34ea684952a90c2bf8094fc2b0903711a">文武科技社</a>   交流群已满，添加请备注：github
+**300287087**       <a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=0fced924c58ee0997c8560a01bcf4bf34ea684952a90c2bf8094fc2b0903711a">文武科技社</a>   交流群已满
+
+**518115201**       <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=TZmHKr3d">文武科技社（二群）</a> 添加请备注：github
 
 ## 点个Star,支持一下站长！
 
