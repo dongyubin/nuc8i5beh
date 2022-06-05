@@ -12,7 +12,7 @@
 
 [方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
 
-## EFI 高速下载（已更新 OC 0.7.9 版本）
+## EFI 高速下载（已更新 OC 0.8.0 版本）
 
 现在最新的版本，在群里发了，有需要的在下面进群获取
 
