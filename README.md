@@ -37,6 +37,8 @@
 
 **518115201**       <a target="_blank" href="https://jq.qq.com/?_wv=1027&k=TZmHKr3d">文武科技社（二群）</a> 添加请备注：github
 
+新建了一个TG群，不定时发放小🚀账号，有需要的可以进来潜水[TG群链接](https://t.me/wwkjs888)
+
 ## 点个Star,支持一下站长！
 
 ## 赞助斌仔，一分也是爱！
