@@ -12,21 +12,25 @@
 
 [方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
 
-## EFI 高速下载（已更新 OC 0.8.0 版本）
+## EFI 高速下载（已更新 OC 0.8.4 版本）
 
 现在最新的版本，在群里发了，有需要的在下面进群获取
 
-我先去整理资料了，拜拜！
-
-- 添加了 带Intel WIFI&蓝牙（在WIndows打开） 的 EFI文件
+- 硬改版本
+- 非硬改版本
 
 ### 安装教程：
 
 [指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://www.chengxuxiaohei.top/mac-anzhuang.html)
 
+### 引导镜像
+
+[黑苹果引导镜像](https://www.wangdu.site/hackintosh/16.html)
+
 ### 其他资源：
 
-[软件网站](https://www.wangdu.site/)
+- [软件网站](https://www.wangdu.site/)
+- [Shadowrocket账号](https://github.com/dongyubin/Free-AppleId-Serve)
 
 ![](https://cdn.jsdelivr.net/gh/dongyubin/WP-CDN@main/20210406143143.gif)
 
