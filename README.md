@@ -14,9 +14,9 @@
 
 ## EFI 高速下载（已更新 OC 0.8.4 版本）
 
-[付费获取EFI](https://www.zhi12.cn/content/58073240)，安装快人一步：支持Ventura
+[付费获取EFI](https://wp.wangdu.site/buy/1)，安装快人一步：支持Ventura
 
-[付费获取黑苹果专用引导镜像](https://www.zhi12.cn/content/02645294)，安装快人一步：从Sierra到Ventura
+[付费获取黑苹果专用引导镜像](https://wp.wangdu.site/buy/3)，安装快人一步：从Sierra到Ventura
 
 现在最新的版本，在群里发了，有需要的在下面进群获取
 
