@@ -14,6 +14,8 @@
 
 ## EFI 高速下载（已更新 OC 0.8.4 版本）
 
+- BIOS最新版本：0090
+
 [付费获取EFI](https://www.zhi12.cn/content/58073240)，安装快人一步：支持Ventura
 
 [付费获取黑苹果专用引导镜像](https://www.zhi12.cn/content/02645294)，安装快人一步：从Sierra到Ventura
@@ -29,7 +31,7 @@
 - [zearp/Nucintosh](https://github.com/zearp/Nucintosh)
 - [Jiangmenghao/NUC8i5BEH](https://github.com/Jiangmenghao/NUC8i5BEH)
 
-## 安装教程：
+## 安装教程
 
 [指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://blog.wangdu.site/mac-anzhuang.html)
 
@@ -37,7 +39,7 @@
 
 [黑苹果引导镜像](https://www.wangdu.site/hackintosh/16.html)
 
-## 其他资源：
+## 其他资源
 
 - [软件网站](https://www.wangdu.site/)
 - [Shadowrocket账号](https://github.com/dongyubin/Free-AppleId-Serve)
@@ -55,6 +57,7 @@
 
 ## 问题集锦
 
+- [解决Nuc8i5ben雷电三热插拔问题](https://github.com/zearp/Nucintosh/tree/tb3)
 - [解决英特尔® NUC 上的过热或过热问题](https://www.intel.cn/content/www/cn/zh/support/articles/000033327/intel-nuc.html)
 - [nuc外接拓展坞](https://post.smzdm.com/p/adwlnw6n/)
 - [黑苹果使用自带网卡无线教程](http://bbs.pcbeta.com/viewthread-1848662-1-1.html)
