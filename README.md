@@ -22,7 +22,7 @@
 
 - BIOS最新版本：0090
 
-[付费获取EFI](https://www.zhi12.cn/content/58073240)，安装快人一步：支持Ventura
+[付费获取EFI](https://wp.wangdu.site/buy/1)，安装快人一步：支持Ventura
 
 [付费获取黑苹果专用引导镜像](https://wp.wangdu.site/buy/3)，安装快人一步：从Sierra到Ventura
 
