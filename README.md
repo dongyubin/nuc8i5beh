@@ -18,7 +18,7 @@
 
 [方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
 
-## EFI 高速下载（已更新 OC 0.8.9 版本）
+## EFI 高速下载（已更新 OC 0.9.0 版本）
 
 - BIOS最新版本：0090
 
