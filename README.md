@@ -18,11 +18,11 @@
 
 [方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
 
-## EFI 高速下载（已更新 OC 0.9.1 版本）
+## EFI 高速下载（已更新 OC 0.9.3 版本）
 
 - BIOS最新版本：0090
 
-[付费获取EFI](https://wp.wwkejishe.top/buy/1)，安装快人一步：支持Ventura
+[付费获取EFI](https://wp.wwkejishe.top/buy/1)，安装快人一步：支持Ventura、Sonoma（不建议升级）
 
 [付费获取黑苹果专用引导镜像](https://wp.wwkejishe.top/buy/3)，安装快人一步：从Sierra到Sonoma 14.x（已更新）
 
