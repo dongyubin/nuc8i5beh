@@ -24,7 +24,7 @@
 
 [付费获取EFI](https://wp.wwkejishe.top/buy/1)，安装快人一步：支持Ventura
 
-[付费获取黑苹果专用引导镜像](https://wp.wwkejishe.top/buy/3)，安装快人一步：从Sierra到Ventura 13.3（已更新）
+[付费获取黑苹果专用引导镜像](https://wp.wwkejishe.top/buy/3)，安装快人一步：从Sierra到Sonoma 14.x（已更新）
 
 现在最新的版本，在群里发了，有需要的在下面进群获取
 
@@ -39,7 +39,7 @@
 
 ## 安装教程
 
-[指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://blog.wangdu.site/mac-anzhuang.html)
+[指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://www.wwkejishe.top/mac-anzhuang.html)
 
 ## 引导镜像
 
