@@ -1,41 +1,35 @@
-# nuc8i5beh
-
-## 更新日志
-
-### 2022.11.16
-
-- 问题集锦 新增 雷电3热插拔问题解决办法
+# OpenCore nuc8i5beh 黑苹果 EFI 
 
 ## 远程安装（童叟无欺）
 
 ### 闲鱼用户搜索：程序小黑
 
-## 为了访问速度，已同步至码云
-
-[码云地址](https://gitee.com/wangdudyb/nuc8i5beh)
-
-## 电脑配置征集
-
-[方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
-
 ## EFI 高速下载（已更新 OC 0.9.3 版本）
 
-- BIOS最新版本：0090
+- BIOS最新版本：`0090`
 
-[付费获取EFI](https://fk.wwkejishe.top/buy/1)，安装快人一步：支持Ventura、Sonoma（不建议升级）
+- [付费获取nuc8 EFI](https://fk.wwkejishe.top/buy/1)：安装快人一步：支持Ventura、Sonoma
 
-[付费获取黑苹果专用引导镜像](https://fk.wwkejishe.top/buy/3)，安装快人一步：从Sierra到Sonoma 14.x（已更新）
+- [付费获取黑苹果专用引导镜像](https://fk.wwkejishe.top/buy/3)：安装快人一步（包含以下版本）
+  - Sierra
+  - Mojava（10.14）
+  - Catalina（10.15）
+  - Big Sur（11.X）
+  - Monterey（12.X）
+  - Ventura（13.X）、
+  - Sonoma 14.x
 
 现在最新的版本，在群里发了，有需要的在下面进群获取
 
 - 硬改版本
 - 非硬改版本
 
-## 其他EFI
+### 注意事项
 
-- [Shaw-fung/Intel-NUC8I5BEH-Hackintosh](https://github.com/Shaw-fung/Intel-NUC8I5BEH-Hackintosh)
-- [zearp/Nucintosh](https://github.com/zearp/Nucintosh)
-- [Jiangmenghao/NUC8i5BEH](https://github.com/Jiangmenghao/NUC8i5BEH)
+1. 默认config.plist适配4k显示器，OC分辨率配置修改已经变更到 `UEFI-->Output-->UIScale`, 默认该值为0，如果OC分辨率显示不正常可以根据情况，修改为1 或2 尝试，每次修改完最好重置nvram。
+
+2. 白果拆机wifi卡0.9.3的EFI ，Monterey和Ventura通用。
+   使用intel wifi ，需要自行在重启之前替换Monterey版本的intel wifi驱动。系统重启时先重置NVRAM。
 
 ## 安装教程
 
@@ -44,6 +38,33 @@
 ## 引导镜像
 
 [黑苹果引导镜像](https://www.wangdu.site/hackintosh/16.html)
+
+## EFI适配情况
+
+### 已驱动
+
+- [x] intel wifi
+- [x] Bluetooth
+- [x] 雷电3
+- [x] 读卡器
+
+## EFI适配机型
+
+支持占用读卡器通道`硬改机型`、`M.2转接白果拆机网卡机型`、`自带读卡器、wifi和蓝牙的机型`
+
+- NUC8i5BEH
+- NUC8i7BEH 
+
+## 电脑配置征集
+
+[方便自己，也方便他人](https://github.com/dongyubin/nuc8i5beh/discussions/14)
+
+## 其他EFI
+
+- [Shaw-fung/Intel-NUC8I5BEH-Hackintosh](https://github.com/Shaw-fung/Intel-NUC8I5BEH-Hackintosh)
+- [zearp/Nucintosh](https://github.com/zearp/Nucintosh)
+- [Jiangmenghao/NUC8i5BEH](https://github.com/Jiangmenghao/NUC8i5BEH)
+- [SunSeekerX/intel_nuc8_i5beh_hackintosh_opencore_efi](https://github.com/SunSeekerX/intel_nuc8_i5beh_hackintosh_opencore_efi)
 
 ## 其他资源
 
