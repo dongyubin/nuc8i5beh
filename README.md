@@ -39,7 +39,7 @@
 
 ### 注意事项
 
-1. 默认 config.plist 适配 4k 显示器，OC 分辨率配置修改已经变更到 `UEFI-->Output-->UIScale`, 默认该值为0，如果OC分辨率显示不正常可以根据情况，修改为 1 或 2 尝试，每次修改完最好重置 nvram。
+1. 默认 config.plist 适配 4k 显示器，OC 分辨率配置修改已经变更到 `UEFI-->Output-->UIScale`, 默认该值为 0，如果 OC 分辨率显示不正常可以根据情况，修改为 1 或 2 尝试，每次修改完最好重置 nvram。
 
 2. 白果拆机 wifi 卡 0.9.3 的 EFI ，Monterey 和 Ventura 通用。
    使用 intel wifi ，需要自行在重启之前替换 Monterey 版本的 intel wifi 驱动。系统重启时先重置 NVRAM。
@@ -109,19 +109,47 @@
 
 ## 问题集锦
 
+### 升级14.4之后OpenCore Legacy Patcher打不上网卡驱动了
+
+更新 IOSkywalkFamily.kext。14.4 不支持 IOSkywalkFamily.kext V1.0.0，需要安装 V1.1.0 才行，链接：[https://github.com/perez987/Broadcom-wifi-back-on-macOS-Sonoma-by-OCLP](https://github.com/perez987/Broadcom-wifi-back-on-macOS-Sonoma-by-OCLP?tab=readme-ov-file)
+
+### Nuc8i5beh 雷电三热插拔问题
+
 - [解决Nuc8i5ben雷电三热插拔问题](https://github.com/zearp/Nucintosh/tree/tb3)
+
+### 解决英特尔® NUC 上的过热或过热问题
+
 - [解决英特尔® NUC 上的过热或过热问题](https://www.intel.cn/content/www/cn/zh/support/articles/000033327/intel-nuc.html)
+
+### Nuc 如何外接拓展坞
+
 - [nuc外接拓展坞](https://post.smzdm.com/p/adwlnw6n/)
+
+### 黑苹果如何使用自带网卡
+
 - [黑苹果使用自带网卡无线教程](http://bbs.pcbeta.com/viewthread-1848662-1-1.html)
+
+### 黑苹果如何驱动蓝牙
+
 - [黑苹果蓝牙驱动](https://github.com/OpenIntelWireless/IntelBluetoothFirmware)
+
+### nuc8i5beh黑苹果双显示器时typec接口的显示器无信号问题
+
 - [解决nuc8i5beh黑苹果双显示器时typec接口的显示器无信号问题](https://www.c4dig.cn/page/1934.html)
+
+### 黑苹果下BCM94360CS2拆机网卡网速慢的问题
+
 - [解决黑苹果下BCM94360CS2拆机网卡网速慢的问题](http://www.purefish.cc/mac-bcm94360cs2-wifi.html)
+
+### NUC8（豆子峡谷）黑苹果新手指南
+
 - [NUC8（豆子峡谷）黑苹果新手指南](https://zhuanlan.zhihu.com/p/165596210)
+
+### 冥王峡谷黑苹果安装macOS monterey无限重启
+
 - [MNUC8i7hvk冥王峡谷黑苹果安装macOS monterey无限重启](https://zhuanlan.zhihu.com/p/506929739)
 
-## 点个Star⭐,支持一下站长！
-
-### 赞助斌仔，一分也是爱！
+## 点个Star⭐，支持一下站长！
 
 | 支付宝                                                       |                             微信                             |
 | ------------------------------------------------------------ | :----------------------------------------------------------: |
