@@ -54,8 +54,8 @@
 3. 以上步骤完成后关机，使用U盘安装系统
 
 ### 激活iMessage/FaceTime
-1. 使用[Hackintool](https://github.com/headkaze/Hackintool)生成 **Serial Number**, **Board Serial Number** 和 **SmUUID**
-2. 在[https://checkcoverage.apple.com](https://checkcoverage.apple.com)查询你的 **Serial Number**，并确保查询结果如下图所示，否则继续摇号
+1. 使用 [Hackintool](https://github.com/headkaze/Hackintool) 生成 **Serial Number**, **Board Serial Number** 和 **SmUUID**
+2. 在 [https://checkcoverage.apple.com](https://checkcoverage.apple.com) 查询你的 **Serial Number**，并确保查询结果如下图所示，否则继续摇号
 ![checkSN](checkSN.png)
 3. 在 *config.plist* 中替换它们
 4. 重启电脑
