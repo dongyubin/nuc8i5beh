@@ -4,11 +4,19 @@
 
 ### 闲鱼用户搜索：程序小黑
 
-## EFI 高速下载（已更新 OC 0.9.3 版本）
+## EFI 高速下载（已更新 OC 1.0.1 版本）
 
 - BIOS最新版本：`0090`
 
 - [付费获取nuc8 EFI](https://fk.wwkejishe.top/buy/1)：安装快人一步：支持Ventura、Sonoma
+  - macOS Mojave
+
+  - macOS Catalina
+  - macOS Big Sur
+  - macOS Monterey
+  - macOS Ventura
+  - macOS Sonoma
+  - macOS Sequoia
 
 - [付费获取黑苹果专用引导镜像](https://fk.wwkejishe.top/buy/3)：安装快人一步（包含以下版本）
   - Sierra
@@ -19,6 +27,11 @@
   - Ventura（13.X）、
   - Sonoma 14.x
 
+如果你已升级到 Sonoma（或更高）且有使用 Wi-Fi 的需求，请参考以下资料
+
+- [OpenCore-Legacy-Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/) (白果网卡)
+- [OpenIntelWireless](https://github.com/OpenIntelWireless/itlwm/) (自带的英特尔网卡)
+
 现在最新的版本，在群里发了，有需要的在下面进群获取
 
 - 硬改版本
@@ -26,14 +39,26 @@
 
 ### 注意事项
 
-1. 默认config.plist适配4k显示器，OC分辨率配置修改已经变更到 `UEFI-->Output-->UIScale`, 默认该值为0，如果OC分辨率显示不正常可以根据情况，修改为1 或2 尝试，每次修改完最好重置nvram。
+1. 默认 config.plist 适配 4k 显示器，OC 分辨率配置修改已经变更到 `UEFI-->Output-->UIScale`, 默认该值为0，如果OC分辨率显示不正常可以根据情况，修改为 1 或 2 尝试，每次修改完最好重置 nvram。
 
-2. 白果拆机wifi卡0.9.3的EFI ，Monterey和Ventura通用。
-   使用intel wifi ，需要自行在重启之前替换Monterey版本的intel wifi驱动。系统重启时先重置NVRAM。
+2. 白果拆机 wifi 卡 0.9.3 的 EFI ，Monterey 和 Ventura 通用。
+   使用 intel wifi ，需要自行在重启之前替换 Monterey 版本的 intel wifi 驱动。系统重启时先重置 NVRAM。
 
 ## 安装教程
 
 [指南：nuc8i5beh安装黑苹果的教程，接近完美运行](https://www.wangdu.site/hackintosh/1924.html)
+
+### 使用方法
+1. 将 **EFI** 和 **NUC8_MacOnlineInstaller** 放入FAT32 U盘根目录
+2. 根据操作系统，执行**NUC8_MacOnlineInstaller**中对应的run脚本
+3. 以上步骤完成后关机，使用U盘安装系统
+
+### 激活iMessage/FaceTime
+1. 使用[Hackintool](https://github.com/headkaze/Hackintool)生成 **Serial Number**, **Board Serial Number** 和 **SmUUID**
+2. 在[https://checkcoverage.apple.com](https://checkcoverage.apple.com)查询你的 **Serial Number**，并确保查询结果如下图所示，否则继续摇号
+![checkSN](checkSN.png)
+3. 在 *config.plist* 中替换它们
+4. 重启电脑
 
 ## 引导镜像
 
