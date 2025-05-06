@@ -4,11 +4,11 @@
 
 ### 闲鱼用户搜索：程序小黑
 
-## EFI 高速下载（已更新 OC 1.0.1 版本）
+## EFI 高速下载（已更新 OC 1.0.4 版本）
 
 - BIOS最新版本：`0090`
 
-- [付费获取nuc8 EFI](https://fk.wwkejishe.top/buy/1)：安装快人一步：支持Ventura、Sonoma
+- [付费获取nuc8 EFI](https://fk.wangdu.site/buy/1)：安装快人一步：支持Ventura、Sonoma
   - macOS Mojave
 
   - macOS Catalina
@@ -18,7 +18,7 @@
   - macOS Sonoma
   - macOS Sequoia
 
-- [付费获取黑苹果专用引导镜像](https://fk.wwkejishe.top/buy/3)：安装快人一步（包含以下版本）
+- [付费获取黑苹果专用引导镜像](https://fk.wangdu.site/buy/3)：安装快人一步（包含以下版本）
   - Sierra
   - Mojava（10.14）
   - Catalina（10.15）
@@ -109,6 +109,8 @@
 
 ## 问题集锦
 
+- [NUC8最新无改版持续更新 （1.0.4+14.7.4）](https://bbs.pcbeta.com/viewthread-1985368-1-1.html)
+
 ### 升级14.4之后OpenCore Legacy Patcher打不上网卡驱动了
 
 更新 IOSkywalkFamily.kext。14.4 不支持 IOSkywalkFamily.kext V1.0.0，需要安装 V1.1.0 才行，链接：[https://github.com/perez987/Broadcom-wifi-back-on-macOS-Sonoma-by-OCLP](https://github.com/perez987/Broadcom-wifi-back-on-macOS-Sonoma-by-OCLP?tab=readme-ov-file)
@@ -148,6 +150,10 @@
 ### 冥王峡谷黑苹果安装macOS monterey无限重启
 
 - [MNUC8i7hvk冥王峡谷黑苹果安装macOS monterey无限重启](https://zhuanlan.zhihu.com/p/506929739)
+
+### NUC8冥王峡谷升级Sequoia15.0.1成功
+
+[NUC8冥王峡谷升级Sequoia15.0.1成功](https://bbs.pcbeta.com/viewthread-2017526-1-1.html)
 
 ## 点个Star⭐，支持一下站长！
 
